@@ -2,7 +2,7 @@
 
 ## Getting started
 
-A full stack web developer is a person who can develop both client and server software.
+Full stack development involves both the front-end and back-end of a website or web application. A full-stack developer has a comprehensive understanding of all layers of web development, including the front-end (client-side), back-end (server-side), and database management.
 
 Here we are discussed some topics, what things one should learn and know to be considered as a full stack developer. Hope this article will help us a lot to move forwar.
 
@@ -65,6 +65,16 @@ A database is an organized collection of structured information, or data, typica
 - [React](https://reactjs.org/) - React is a JavaScript library created by Facebook and a User Interface (UI) library.
 - [Redux](https://redux.js.org/) - Redux is a predictable state container for JavaScript apps.
 - [Laravel](https://laravel.com/) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.
+	- [Laravel ORM & Relationships]()
+	- [Service Container]()
+	- [Broadcasting]()
+	- [Cache]()
+	- [Events]()
+	- [Mail]()
+	- [Notifications]()
+	- [Queues]()
+	- [Rate Limiting]()
+	- [Task Scheduling]()
 - [Lumen](https://laravel.com/) - The Lumen framework has a few system requirements. Of course, all of these requirements are satisfied by the Laravel Homestead virtual machine, so it's highly recommended that you use Homestead as your local Lumen development environment.
 - [Go](https://go.dev/) - The Go programming language is an open source project to make programmers more productive.
 - [Angular](https://angular.io/) - The web development framework for building the future.
@@ -128,6 +138,10 @@ ions.
 - [Domain-Driven Design]()
 - [Test Driven Development]()
 - [SOLID Principles]()
+- [DRY (Don't repeat yourself)]()
+- [KISS (Keep it simple stupid)]()
+- [LOD (Law of demeter)]()
+- [SOC (Separation of concerns)]()
 
 ## Architectural Patterns
 
@@ -182,3 +196,8 @@ Good knowledge of standard algorithms is equally important as choosing the right
 - [KMP]()
 - [Quick Select]()
 - [Boyer–Moore Majority Vote]()
+
+## Methodology
+
+-- [Agile]()
+-- [Scrum]()
