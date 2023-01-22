@@ -137,6 +137,7 @@ ions.
 
 - [Domain-Driven Design]()
 - [Test Driven Development]()
+- [OOP Principles]()
 - [SOLID Principles]()
 - [DRY (Don't repeat yourself)]()
 - [KISS (Keep it simple stupid)]()
