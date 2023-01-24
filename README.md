@@ -46,7 +46,7 @@ A database is an organized collection of structured information, or data, typica
 	- [High availability]()
 	- [Horizantal scalability]()
 	- [Support for multiple storage engines]()
-- [The advantages of MongoDB]
+- [The advantages of MongoDB]()
 	- [Document correspond to native data types in many programing language]()
 	- [Embadeded documents and array reduce need for expensive join]()
 	- [Dynamic schema supports fluent polymorphism]()
