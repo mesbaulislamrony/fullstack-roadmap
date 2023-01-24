@@ -40,6 +40,16 @@ A database is an organized collection of structured information, or data, typica
 
 - [SQL](https://www.w3schools.com/sql/) - SQL is a standard language for storing, manipulating and retrieving data in databases.
 - [MongoDB](https://www.mongodb.com/home) - The developer data platform that provides the services and tools necessary to build distributed applications fast, at the performance and scale users demand.
+- [Key Features]()
+	- [High performance]()
+	- [Query api support]()
+	- [High availability]()
+	- [Horizantal scalability]()
+	- [Support for multiple storage engines]()
+- [The advantages of MongoDB]
+	- [Document correspond to native data types in many programing language]()
+	- [Embadeded documents and array reduce need for expensive join]()
+	- [Dynamic schema supports fluent polymorphism]()
 - [Firebase](https://firebase.google.com/) - Firebase is an app development platform that helps you build and grow apps and games users love. Backed by Google and trusted by millions of businesses around the world.
 - [MySQL](https://www.w3schools.com/mysql/default.asp) - MySQL is the most popular database system used with PHP.
 - [SQLite](https://www.tutorialspoint.com/sqlite/index.htm) - SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. SQLite is the most used database engine in the world.
