@@ -33,7 +33,7 @@ As a backend developer, you may not need to have proficient knowledge of the fro
 ## Web Servers
 - [Nginx](https://www.nginx.com/) - NGINX is open source software for web serving, reverse proxying, caching, load balancing, media streaming, and more.
 - [Apache](https://httpd.apache.org/) - The Apache HTTP Server Project is a collaborative software development effort aimed at creating a robust, commercial-grade, featureful, and freely-available source code implementation of an HTTP (Web) server. 
--[Laragon](https://laragon.org/) -The laragon is fantastic local server system for managing php,node,mysql,python version, and we can manage virtual host by laragon etc.
+- [Laragon](https://laragon.org/) -The laragon is fantastic local server system for managing php,node,mysql,python version, and we can manage virtual host by laragon etc.
 ## Databases
 
 A database is an organized collection of structured information, or data, typically stored electronically in a computer system. A database is usually controlled by a database management system (DBMS). 
