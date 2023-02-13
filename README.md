@@ -39,7 +39,7 @@ As a backend developer, you may not need to have proficient knowledge of the fro
 A database is an organized collection of structured information, or data, typically stored electronically in a computer system. A database is usually controlled by a database management system (DBMS). 
 
 - [SQL](https://www.w3schools.com/sql/) - SQL is a standard language for storing, manipulating and retrieving data in databases.
-- [MongoDB](https://www.mongodb.com/home) - The developer data platform that provides the services and tools necessary to build distributed applications fast, at the performance and scale users demand.
+- [MongoDB](https://www.mongodb.com/home) - MongoDB is a document database and can be installed locally or hosted in the cloud. It stores data in a type of JSON format called BSON.
 - [Key Features]()
 	- [High performance]()
 	- [Query api support]()
@@ -50,6 +50,9 @@ A database is an organized collection of structured information, or data, typica
 	- [Document correspond to native data types in many programing language]()
 	- [Embadeded documents and array reduce need for expensive join]()
 	- [Dynamic schema supports fluent polymorphism]()
+- [SQL vs Document Databases]()
+	- []()
+
 - [Firebase](https://firebase.google.com/) - Firebase is an app development platform that helps you build and grow apps and games users love. Backed by Google and trusted by millions of businesses around the world.
 - [MySQL](https://www.w3schools.com/mysql/default.asp) - MySQL is the most popular database system used with PHP.
 - [SQLite](https://www.tutorialspoint.com/sqlite/index.htm) - SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. SQLite is the most used database engine in the world.
@@ -68,6 +71,23 @@ A database is an organized collection of structured information, or data, typica
 - [CLI](https://en.wikipedia.org/wiki/Command-line_interface) - A command-line interface (CLI) is a text-based user interface (UI) used to run programs, manage computer files and interact with the computer. Command-line interfaces are also called command-line user interfaces, console user interfaces and character user interfaces.
 - [Docker](https://www.docker.com/) - Docker is an open source platform for building, deploying, and managing containerized applications. Learn about containers, how they compare to VMs, and why Docker is so widely adopted and used.
 - [Git](https://git-scm.com/) - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+	-[Clone]()
+	-[Pull & Fetch]()
+	-[Commit]()
+	-[Log]()
+	-[Push]()
+	-[Reset]()
+	-[Restore]()
+	-[Switch & Checkout]()
+	-[Branching]()
+		-[Merge]()
+		-[Rebase]()
+		-[Workflow]()
+	-[Cherry Pick]()
+	-[Stash]()
+	-[Squash]()
+	-[Revert]()
+	-[Tags]()
 
 ## Framework
 
@@ -101,14 +121,16 @@ A database is an organized collection of structured information, or data, typica
 - [OAuth 2.0]()
 ions.
 
+## Cookies & Sessions
+
 ## Caching
 - [Redis]()
 - [Memcached]()
 
 ## Web Security Knowledge
 
-- [HTTPS]()
-- [Content Security Policy]()
+- [XSS]()
+- [Content Security Policy(CSP)]()
 - [Cross-Origin Resource Sharing (CORS)]()
 - [Secure Sockets Layer (SSL) and Transport Layer Security (TLS)]()
 
