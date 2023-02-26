@@ -41,18 +41,17 @@ A database is an organized collection of structured information, or data, typica
 
 - [SQL](https://www.w3schools.com/sql/) - SQL is a standard language for storing, manipulating and retrieving data in databases.
 - [MongoDB](https://www.mongodb.com/home) - MongoDB is a document database and can be installed locally or hosted in the cloud. It stores data in a type of JSON format called BSON.
-- [Key Features]()
-	- [High performance]()
-	- [Query api support]()
-	- [High availability]()
-	- [Horizantal scalability]()
-	- [Support for multiple storage engines]()
-- [The advantages of MongoDB]()
-	- [Document correspond to native data types in many programing language]()
-	- [Embadeded documents and array reduce need for expensive join]()
-	- [Dynamic schema supports fluent polymorphism]()
-- [SQL vs Document Databases]()
-	- []()
+	- [Key Features]()
+		- [High performance]()
+		- [Query api support]()
+		- [High availability]()
+		- [Horizantal scalability]()
+		- [Support for multiple storage engines]()
+	- [The advantages of MongoDB]()
+		- [Document correspond to native data types in many programing language]()
+		- [Embadeded documents and array reduce need for expensive join]()
+		- [Dynamic schema supports fluent polymorphism]()
+	- [SQL vs Document Databases]()
 
 - [Firebase](https://firebase.google.com/) - Firebase is an app development platform that helps you build and grow apps and games users love. Backed by Google and trusted by millions of businesses around the world.
 - [MySQL](https://www.w3schools.com/mysql/default.asp) - MySQL is the most popular database system used with PHP.
