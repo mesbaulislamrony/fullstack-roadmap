@@ -36,8 +36,6 @@ Delete an image from the docker image
 ```bash
 docker image rm alpine:3.4
 ```
-
-## Container Commands
 Create a container
 ```bash
 docker create [IMAGE] 
@@ -86,8 +84,6 @@ Block a container
 ```bash
 docker wait  [CONTAINER]
 ```
-
-## Docker Share Command
 Pull an image from a registry
 ```bash
 docker pull [OPTIONS] NAME[:TAG] 
@@ -100,8 +96,6 @@ Run a command in a running container
 ```bash
 docker exec [OPTIONS] CONTAINER COMMAND [ARG...] 
 ```
-
-### General Commands
 Login into docker hub
 ```bash
 docker login
@@ -118,8 +112,6 @@ Create a volume for containers
 ```bash
 docker volume create
 ```
-
-### Docker Swarm Commands
 Create a Docker Swarm
 ```bash
 docker swarm init --advertise-addr [IP ADDRESS] 
@@ -132,8 +124,6 @@ Execute this command to leave docker swarm
 ```bash
 docker swarm leave [OPTIONS]
 ```
-
-### Docker Compose Commands
 Display docker-compose version
 ```bash
 docker-compose -version 
