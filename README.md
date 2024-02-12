@@ -29,6 +29,7 @@ As a backend developer, you may not need to have proficient knowledge of the fro
 - [C++](https://www.w3schools.com/cpp/cpp_intro.asp/) - C++ is a cross-platform language that can be used to create high-performance applications.
 - [PHP](https://www.php.net/) - A popular general-purpose scripting language that is especially suited to web development..
 - [Python](https://www.python.org/) - Python is a programming language that lets you work quickly and integrate systems more effectively.
+- [Java](https://github.com/mesbaulislamrony/fullstack-roadmap/tree/main/java) - Java is a programming language and computing platform first released by Sun Microsystems in 1995.
 
 ## Web Servers
 - [Nginx](https://www.nginx.com/) - NGINX is open source software for web serving, reverse proxying, caching, load balancing, media streaming, and more.
