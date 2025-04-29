@@ -72,23 +72,23 @@ A database is an organized collection of structured information, or data, typica
 - [CLI](https://en.wikipedia.org/wiki/Command-line_interface) - A command-line interface (CLI) is a text-based user interface (UI) used to run programs, manage computer files and interact with the computer. Command-line interfaces are also called command-line user interfaces, console user interfaces and character user interfaces.
 - [Docker](https://github.com/mesbaulislamrony/fullstack-roadmap/tree/main/docker) - Docker is an open source platform for building, deploying, and managing containerized applications. Learn about containers, how they compare to VMs, and why Docker is so widely adopted and used.
 - [Git](https://git-scm.com/) - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
-	-[Clone]()
-	-[Pull & Fetch]()
-	-[Commit]()
-	-[Log]()
-	-[Push]()
-	-[Reset]()
-	-[Restore]()
-	-[Switch & Checkout]()
-	-[Branching]()
-		-[Merge]()
-		-[Rebase]()
-		-[Workflow]()
-	-[Cherry Pick]()
-	-[Stash]()
-	-[Squash]()
-	-[Revert]()
-	-[Tags]()
+	- [Clone]()
+	- [Pull & Fetch]()
+	- [Commit]()
+	- [Log]()
+	- [Push]()
+	- [Reset]()
+	- [Restore]()
+	- [Switch & Checkout]()
+	- [Branching]()
+		- [Merge]()
+		- [Rebase]()
+		- [Workflow]()
+	- [Cherry Pick]()
+	- [Stash]()
+	- [Squash]()
+	- [Revert]()
+	- [Tags]()
 
 ## Framework
 
@@ -235,3 +235,59 @@ Good knowledge of standard algorithms is equally important as choosing the right
 
 -- [Agile]()
 -- [Scrum]()
+
+
+## Devops 
+### Linux Fundamentals 
+ - [CLI] (BASH) 
+ - Process & Permissions : ps, kill, chmod  - package management : apt, yum  - Text editors : vim 
+
+### Networking & Security concepts  
+ - OSI, TCP/IP models 
+ - Different protocols : http, https, ssh etc. 
+ - IP addresses, subnetting, DNS 
+ - Network issues  
+ - firewalls, proxy servers 
+ - Load balancers & caching servers. 
+### Scripting (Programming language eg: Python, Ruby, Golang) 
+ - Syntax & fundamentals 
+ - Useful libraries 
+ - File handling 
+ - Writing automation scripts 
+### Version Control (git) 
+ - Git commands : init, clone, add, commit, push, pull, merge, rebase etc.  
+ - concept of branching 
+ - merging & merge conflict resolution 
+ - working with remote repositories  
+### Cloud (e.g: AWS, Azure, GCP)
+ - configure & manage servers & data (EC2, S3, RDS) 
+ - manage users, groups & roles (IAM) 
+ - setup & manage isolated networks (VPC) 
+### Microservices & Containers (e.g: Docker)
+ - overview of virtualization & containerization 
+ - docker images & managing containers 
+ - docker commands : run, ps, build etc. 
+ - writing docker files 
+ - using docker compose 
+### CI/CD 
+ - Jenkins
+ - Github Actions CI/CD
+ - Gitlab CI
+ - Circle CI
+ - Travis CI 
+### Infrastructure as Code (IaC) 
+- Provisioning
+    - Terraform, Pulumi
+- Configuring
+    - Ansible, Puppet, Chef
+### Orchestration & Management (Kubernetes)
+ - creating & managing k8s clusters  
+ - deployment of applications on k8s 
+ - k8s commands : apply, build, delete etc. 
+  
+### Monitoring & Logging 
+ - Prometheus
+ - Grafana 
+ - ELK
+ - Fluentd
+ - AWS CloudWatch
